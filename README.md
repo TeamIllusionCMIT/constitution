@@ -20,7 +20,7 @@ The **President of the Club** is the overarching authority over the entire club.
 
 ### **Club Vice President**
 
-Becomes **President of** **the Club** in the event that the true **President** is absent. This role has no other rights/responsibilities.
+Becomes **President of** **the Club** in the event that the true **President** is absent. This role has no other rights/responsibilities. If the **President** is a senior, the **Vice President** must be an underclassman.
 
 ### **Secretary**
 
